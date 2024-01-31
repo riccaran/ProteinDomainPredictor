@@ -1,16 +1,16 @@
 # prediction and characterization of a domain family starting from a single protein sequence
 
-This 
+This project try to use several tools (from Python code to online services) for making a prediction and characterization pipeline of a domain family starting from a seingle protein sequence as input.
 
 ## Main files
 
 ### `files folder`
 
-This folder contains all inputs and outputs for running properly the notebook file
+This folder contains all inputs and outputs for running properly the notebook file.
 
-### `equence_analysis.ipynb`
+### `sequence_analysis.ipynb`
 
-The notebook with the Python 3 code used for performing the analysis
+The notebook with the Python 3 code used for performing the analysis.
 
 ### `work_report.pdf`
 
