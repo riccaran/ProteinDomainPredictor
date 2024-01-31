@@ -1,4 +1,4 @@
-# prediction and characterization of a domain family starting from a single protein sequence
+# Prediction and characterization of a domain family starting from a single protein sequence
 
 This project try to use several tools (from Python code to online services) for making a prediction and characterization pipeline of a domain family starting from a seingle protein sequence as input.
 
