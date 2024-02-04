@@ -2,7 +2,7 @@
 
 This project try to use several tools (from Python code to online services) for making a prediction and characterization pipeline of a domain family starting from a seingle protein sequence as input.
 
-## Main files
+## Files
 
 ### `files folder`
 
