@@ -1,17 +1,21 @@
-# Prediction and characterization of a domain family starting from a single protein sequence
+# Predicting and Characterizing a Protein Domain Family from a Single Sequence
 
-This project try to use several tools (from Python code to online services) for making a prediction and characterization pipeline of a domain family starting from a seingle protein sequence as input.
+This project leverages Python coding and advanced online bioinformatics tools, with the aim is to develop a robust prediction and characterization pipeline for protein domain families, starting from a single protein sequence without further information.
 
-## Files
+# Project files
 
-### `files folder`
-
-This folder contains all inputs and outputs for running properly the notebook file.
-
-### `sequence_analysis.ipynb`
-
-The notebook with the Python 3 code used for performing the analysis.
-
-### `work_report.pdf`
-
-In this paper everything related to this project is discussed in detail.
+biological_data/
+│
+├── files/
+│   ├── alignments/
+│	├── MSA.fasta
+│	├── MSA_edited.fa
+│	├── UniRef50_seqs.fasta
+│	├── blast_xml.xml
+│   ├── chimera/
+│   	├── prot_struct.png
+│   	├── protein_rendering.pdb
+│
+├── sequence_analysis.ipynb
+│
+├── work_report.pdf
